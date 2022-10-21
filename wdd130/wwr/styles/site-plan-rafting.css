@@ -43,6 +43,11 @@ img {
     display: block;
     margin: 0 auto;
     max-width: 300px;
+    border: 300px border darkblue;
+}
+
+.card-img {
+    border: 30px #5cb270;
 }
 
 h1,
@@ -63,24 +68,6 @@ hr {
     height: 3px;
     margin: 35px 0;
     background: var(--accent1-color);
-}
-
-header {
-    padding: 1em;
-    text-align: center;
-    color: var(--paragraph-color-on-color);
-    background-color: var(--paragraph-background-color);
-}
-
-header>h1,
-header>h2 {
-    color: var(--headline-color-on-color);
-}
-
-p {
-    font-family: var(--paragraph-font);
-    color: var(--paragraph-color);
-    padding: 1em;
 }
 
 .colors {
