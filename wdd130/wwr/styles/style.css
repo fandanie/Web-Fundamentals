@@ -12,7 +12,8 @@ h2 {
 }
 
 header {
-    /* background-color: rgb(50, 29, 15); */
+    background-color: #6f7364;
+    opacity: 0.6;
     display: grid;
     grid-template-columns: 150px auto;
 }
