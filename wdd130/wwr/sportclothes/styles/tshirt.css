@@ -4,7 +4,9 @@ body {
     margin: 0;
     padding: 0;
     text-align: center;
-    background-color: rgb(50, 29, 15);
+    background-color: #8f2d1c;
+    font-family: 'Fuzzy Bubbles', cursive;
+    ;
 }
 
 h2 {
@@ -50,7 +52,7 @@ nav a:hover {
     color: rgb(136, 201, 201);
     font-size: 2em;
     margin-top: 10px;
-    font-family: 'Times New Roman', Times, serif
+    font-family: 'Fuzzy Bubbles', cursive;
 }
 
 .card-img,
@@ -114,6 +116,7 @@ nav a:hover {
     grid-column: 6/10;
     grid-row: 6/7;
     box-shadow: 5px 5px 10px #6f7364;
+    font-family: 'Fuzzy Bubbles', cursive;
 }
 
 .msg h2 {
@@ -124,7 +127,7 @@ nav a:hover {
     color: aliceblue;
     font-size: 2em;
     padding-bottom: 15px;
-    font-family: 'Times New Roman', Times, serif
+    font-family: 'Fuzzy Bubbles', cursive;
 }
 
 #hero {
