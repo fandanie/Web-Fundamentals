@@ -4,7 +4,7 @@ body {
     margin: 0;
     padding: 0;
     text-align: center;
-    background-color: #8f2d1c;
+    background-color: #0e0b34;
     font-family: 'Fuzzy Bubbles', cursive;
     ;
 }
@@ -26,13 +26,13 @@ nav {
 
 nav a {
     text-align: center;
-    color: rgb(34, 36, 37);
+    color: rgb(238, 237, 228);
     padding: 35px;
 }
 
 nav a:hover {
-    background-color: rgb(151, 170, 170);
-    color: rgb(92, 54, 34);
+    background-color: rgb(164, 38, 13);
+    color: rgb(222, 215, 211);
     text-decoration: none;
 }
 
@@ -44,12 +44,12 @@ nav a:hover {
 
 .icon {
     width: 80px;
-    color: rgb(21, 22, 22);
+    color: rgb(235, 244, 244);
     padding-top: 10px;
 }
 
 .home-title {
-    color: rgb(6, 7, 7);
+    color: rgb(233, 241, 241);
     font-size: 2em;
     margin-top: 10px;
     font-family: 'Fuzzy Bubbles', cursive;
@@ -157,7 +157,7 @@ nav a:hover {
 
 #hero-msg h4 {
     text-align: center;
-    color: rgb(16, 14, 14);
+    color: rgb(225, 217, 217);
 }
 
 .card-sweter {
